@@ -1,19 +1,11 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/landio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/landio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/landio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/4okimYBmyjc?style=social)](https://youtu.be/4okimYBmyjc)
-
   <br />
   <br />
   
   <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Landio - Landing page</h2>
-
-  Landio is a fully responsive landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/landio/"><strong>➥ Live Demo</strong></a>
 
@@ -25,32 +17,19 @@
 
 ![Landio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+## 🚀 Tecnologias
 
-Before you begin, ensure you have met the following requirements:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- HTML
+- CSS
+- JavaScript
 
-### Run Locally
+## 💻 Projeto
 
-To run **Landio** locally, run this command on your git bash:
+Landio é uma página de destino totalmente responsiva,
+Responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-Linux and macOS:
+## :memo: Licença
 
-```bash
-sudo git clone https://github.com/codewithsadee/landio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/landio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
