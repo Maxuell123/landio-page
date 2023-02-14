@@ -24,7 +24,7 @@ Creative Landing Page
 
 A creative & modern landing page with Landio template & We love make things amazing.
 
-🥳Nemo enim ipsam voluptatem quia voluptas sit aspernatur that is fugit.
+🥳 Nemo enim ipsam voluptatem quia voluptas sit aspernatur that is fugit.
 
 placeholder = Enter Your Email
 
@@ -50,19 +50,13 @@ Esay To Use
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
 
 <ion-icon name="trending-up"></ion-icon>
-
 Grow Your Revenue
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
 
 <ion-icon name="shield-checkmark"></ion-icon>
-
 Analytics Security
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
 
 <ion-icon name="server"></ion-icon>
-
 Data Privacy
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
 
 
 
@@ -94,10 +88,8 @@ Buy Now
 We do the work you stay focused on your customers.
 
 <ion-icon name="rocket-outline"></ion-icon>
-Donec pede justo fringilla vel nec.
 
 <ion-icon name="wifi-outline"></ion-icon>
-Cras ultricies mi eu turpis hendrerit fringilla.
 
 
 
@@ -110,7 +102,7 @@ Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum 
 alt = Best Traveling Place
 
 <ion-icon name="calendar-outline"></ion-icon>
-april 10 2020
+april 10 2021
 
 <ion-icon name="person-outline"></ion-icon>
 admin
@@ -122,8 +114,10 @@ Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscin
 Learn More
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
+alt = Private Meeting Room
 Private Meeting Room
 
+alt = The Best Business Ideas
 The Best Business Ideas
 
 
